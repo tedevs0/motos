@@ -1,0 +1,10 @@
+.products {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 25%;
+}
